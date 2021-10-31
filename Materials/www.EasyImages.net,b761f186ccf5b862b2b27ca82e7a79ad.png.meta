@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: d08600d7a253be84a9ac3cfd993271c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5443992380727827522
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_0
+  - first:
+      213: -7308552314394954039
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_1
+  - first:
+      213: -4065701777526340781
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_2
+  - first:
+      213: -378609088392258466
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_3
+  - first:
+      213: -4652012218524877746
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_4
+  - first:
+      213: 1435751520815985902
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_5
+  - first:
+      213: 705429761029534847
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_6
+  - first:
+      213: -5468100926499054082
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_7
+  - first:
+      213: -4426155317607831497
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_8
+  - first:
+      213: -2953627302460800208
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_9
+  - first:
+      213: -3342967645646095216
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_10
+  - first:
+      213: -5250683700030889229
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_11
+  - first:
+      213: 6043380640676474836
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_12
+  - first:
+      213: -4286133219615996009
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_13
+  - first:
+      213: 1668467140653869950
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_14
+  - first:
+      213: 4394412603136533657
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_15
+  - first:
+      213: 6598709696503439674
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_16
+  - first:
+      213: -6737901044375671446
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_17
+  - first:
+      213: -5988699333069235475
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_18
+  - first:
+      213: 4694235359274284920
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_19
+  - first:
+      213: -1453200960533395661
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_20
+  - first:
+      213: -8741589948447409180
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_21
+  - first:
+      213: 6853427826885592531
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_22
+  - first:
+      213: 6210200894892741661
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_23
+  - first:
+      213: 4597343376587994650
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_24
+  - first:
+      213: -4844762200644450088
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_25
+  - first:
+      213: -1728524635687383031
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_26
+  - first:
+      213: 7689161109931784623
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_27
+  - first:
+      213: 2544168998985793043
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_28
+  - first:
+      213: 4572768272447467405
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_29
+  - first:
+      213: 805787841191367980
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_30
+  - first:
+      213: -7721460022183128139
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_31
+  - first:
+      213: -750357129967295660
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_32
+  - first:
+      213: 8083522810769220670
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_33
+  - first:
+      213: 6782756160708768074
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_34
+  - first:
+      213: 8558000949075112853
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_35
+  - first:
+      213: 8882058132743546756
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_36
+  - first:
+      213: -4843387907187561434
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_37
+  - first:
+      213: 332488649225594240
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_38
+  - first:
+      213: 5464282366681255134
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_39
+  - first:
+      213: 795379855683996231
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_40
+  - first:
+      213: 7611403684681734045
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_41
+  - first:
+      213: -8244679740291627103
+    second: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_0
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 566
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c173d0a32fc8b40800000000000000
+      internalID: 5443992380727827522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c63126746ec29a90800000000000000
+      internalID: -7308552314394954039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 482
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534edb36c9b397c0800000000000000
+      internalID: -4065701777526340781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 482
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c15a14a09eebaf0800000000000000
+      internalID: -378609088392258466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 482
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c3c00e88bb07fb0800000000000000
+      internalID: -4652012218524877746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_5
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 482
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4b6f7b660dce310800000000000000
+      internalID: 1435751520815985902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_6
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 482
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74772051a03ac900800000000000000
+      internalID: 705429761029534847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_7
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 482
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd1a08bd276d14b0800000000000000
+      internalID: -5468100926499054082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 387
+        width: 176
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738674d70332392c0800000000000000
+      internalID: -4426155317607831497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 387
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033cded0e9b9207d0800000000000000
+      internalID: -2953627302460800208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 387
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf3a953a46b91d0800000000000000
+      internalID: -3342967645646095216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 387
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2a9bf7ef2d127b0800000000000000
+      internalID: -5250683700030889229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_12
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 387
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df6ef96ca66ed350800000000000000
+      internalID: 6043380640676474836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_13
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 387
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79789c0bb889484c0800000000000000
+      internalID: -4286133219615996009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_14
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 387
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be5164606972710800000000000000
+      internalID: 1668467140653869950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 176
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e37edaf61cfc30800000000000000
+      internalID: 4394412603136533657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 292
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31630ce183539b50800000000000000
+      internalID: 6598709696503439674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 292
+        width: 177
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2146f2ba2e72a0800000000000000
+      internalID: -6737901044375671446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_18
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 292
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea1ac1afadd3eca0800000000000000
+      internalID: -5988699333069235475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 292
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8773f992036452140800000000000000
+      internalID: 4694235359274284920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_20
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 292
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33786200d6135dbe0800000000000000
+      internalID: -1453200960533395661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_21
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 292
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebbaaeb142afa680800000000000000
+      internalID: -8741589948447409180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 176
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d50b4b2c444c1f50800000000000000
+      internalID: 6853427826885592531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 196
+        width: 176
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1415e39fc01f2650800000000000000
+      internalID: 6210200894892741661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_24
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 197
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16b508717b0dcf30800000000000000
+      internalID: 4597343376587994650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 193
+        width: 177
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d809597272f3ccb0800000000000000
+      internalID: -4844762200644450088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_26
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 193
+        width: 192
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9009750800c0308e0800000000000000
+      internalID: -1728524635687383031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_27
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 197
+        width: 179
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa97b326a4365ba60800000000000000
+      internalID: 7689161109931784623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_28
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 197
+        width: 178
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31efb199934be4320800000000000000
+      internalID: 2544168998985793043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f6867248cb57f30800000000000000
+      internalID: 4572768272447467405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 102
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c255a86b5cbbe2b00800000000000000
+      internalID: 805787841191367980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_31
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 102
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b31566150dd7d490800000000000000
+      internalID: -7721460022183128139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_32
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 102
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4532e957a223695f0800000000000000
+      internalID: -750357129967295660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_33
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 102
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34aaa50b217e2070800000000000000
+      internalID: 8083522810769220670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_34
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 102
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a417325aac0312e50800000000000000
+      internalID: 6782756160708768074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_35
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 102
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593f31d558024c670800000000000000
+      internalID: 8558000949075112853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 176
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4876c8400d8634b70800000000000000
+      internalID: 8882058132743546756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 7
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca9aa1c54d8ccb0800000000000000
+      internalID: -4843387907187561434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_38
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 7
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085e0f43aac3d9400800000000000000
+      internalID: 332488649225594240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 7
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc877a8cd705db40800000000000000
+      internalID: 5464282366681255134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_40
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 7
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74acb8fb3c1c90b00800000000000000
+      internalID: 795379855683996231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_41
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 7
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97dd83035321a960800000000000000
+      internalID: 7611403684681734045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: www.EasyImages.net,b761f186ccf5b862b2b27ca82e7a79ad_42
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 7
+        width: 176
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7ce095573059d80800000000000000
+      internalID: -8244679740291627103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
